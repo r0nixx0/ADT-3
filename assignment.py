@@ -1,9 +1,8 @@
 # You can remove 'pass' if you written code in the function
 # Do NOT use .append() or .pop() inside Enqueue() and Dequeue() - move the pointers yourself.
-from encodings.quopri_codec import quopri_encode
 
 # Exercise 1
-Queue = [-1,-1,-1,-1,-1,-1]
+Queue = [-1, -1, -1, -1, -1, -1, -1, -1]
 HeadPointer = 0
 TailPointer = -1
 # Write code here to fill Queue with 8 elements, all -1
